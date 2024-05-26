@@ -1,4 +1,1 @@
-Delivery-Web-Site
-Programing Language: Php 
-Database: MySQL 
-This WebSite is about purchases and delivery.
+This is a WebSite about purchases and delivery. Tools:  Php, MySQL, HTML5, CSS3 & Bootstrap.
