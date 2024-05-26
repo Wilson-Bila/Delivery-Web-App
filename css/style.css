@@ -1,0 +1,269 @@
+#logo{
+    width: 200px;
+    height: 130px;
+    margin-left: 90px;
+    margin-top: 15px;
+}
+
+.navbar{
+    height: 130px;
+    width: 100%;
+    margin-top:5px;
+}
+
+header{
+    font-family:"Lato", Lato, sans-serif;
+    font-size:13px;
+}
+
+section{
+    font-family:"Lato", Lato, sans-serif;
+    font-size:14px;
+}
+
+#barra{
+    background-color: aqua;
+    height: 25px;
+}
+
+#nia{
+    
+    margin-top: 60px;
+}
+
+#div1{
+    text-align: center;
+}
+
+#nampula{
+    margin-left: 610px;
+    
+}
+
+.collapse{
+    margin-left: 10px;
+}
+
+.nav-link{
+    margin-left: 45px;
+}
+
+.nav-link:hover{
+    text-decoration-line: underline;
+    text-decoration-color: aqua;
+    text-decoration-style: solid;
+    text-decoration-thickness: 4px;
+}
+
+.dropdown-item{
+    font-size: 13px;
+}
+
+.dropdown-item:hover{
+    background: aqua;
+}
+
+#container{
+    border-style: solid;
+    border-width: 3px 2px 3px 2px;
+    border-color: aqua;
+    border-left-color: black;
+    border-right-color: black;
+    margin-left: 6%;
+    margin-right: 6%;
+    background-color: black;
+}
+
+#barra2{
+    background-color: black;
+    height: 30px;
+    display: inline-flex;
+}
+
+.cami:visited{
+    background-color: aqua;
+}
+
+#botao{
+    background: aqua;
+    font-size: 1.2em;
+    border: 0;
+    color: black;
+    top: 90%;
+    left: 20%;
+    margin-top: 210%;
+    margin-left: 500%;
+}
+
+#botao:hover{
+    background: black;
+    color: aqua;
+    box-shadow: inset 2px 2px 2px gray;
+    text-shadow: none;
+}
+
+.foo:hover{
+    text-decoration: solid;
+    text-decoration-line: underline;
+    text-decoration-color: aqua;
+    text-decoration-style: solid;
+    text-decoration-thickness: 4px;
+}
+
+.first-letter::first-letter {
+      font-size: 4em;
+      color: aqua;
+}
+
+.deco{
+    text-decoration: solid;
+    text-decoration-line: underline;
+    text-decoration-color: aqua;
+    text-decoration-style: solid;
+    text-decoration-thickness: 3px;
+}
+
+.card-body:hover{
+    background-color: black;
+    color: aqua;
+}
+
+.card-body2:hover{
+  background-color: aqua;
+  color: aqua;
+}
+
+  #corpo{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  .containe {
+    max-width: 500px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    background-color: transparent;
+  }
+  
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .form-group label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: white;
+  }
+  
+ 
+  .form-group input[type="text"],
+  .form-group input[type="email"],
+  .form-group input[type="password"] {
+    width: 96%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+
+  .form-group input[type="submit"] {
+    background-color: aqua;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 150px;
+  }
+  
+  @media screen and (max-width: 600px) {
+    .container {
+      max-width: 100%;
+    }
+  }
+
+  #home{
+      border-style: groove;
+  }
+
+  .contain{
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: transparent;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+
+  .botn {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 10px;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    background-color: #0056b3;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  .botn:hover {
+    background-color: aqua;
+  }
+
+  .containers {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    margin-top: 8%;
+  }
+
+  .containers h1 {
+    text-align: center;
+    color: white;
+  }
+
+  .form-group {
+    margin-bottom: 15px;
+  }
+
+  .form-group label {
+    display: block;
+    margin-bottom: 5px;
+  }
+
+  .form-group input[type="text"],
+  .form-group input[type="tel"],
+  .form-group input[type="password"] {
+    width: 100%;
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid transparent;
+  }
+
+  .form-group2 input[type="button"] {
+    width: 40%;
+    margin-left: 2%;
+    padding: 8px;
+    background-color: aqua;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  .cont {
+    max-width: 500px;
+    margin: 50px auto;
+  }
+
+ 
