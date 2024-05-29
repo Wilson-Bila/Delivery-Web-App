@@ -1,4 +1,3 @@
-This is a WebSite about purchases and delivery. Tools:  Php, HTML5, CSS3 & Bootstrap.
 
 <h1>This is a WebApp about purchases and delivery. Tools:  Php, HTML5, CSS3 & Bootstrap.</h1>
 
